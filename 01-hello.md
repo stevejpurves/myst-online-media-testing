@@ -2,12 +2,6 @@
 # Testing
 
 
-:::{figure} #my-video
-:name: fig-vid-embedded
-Video: Dog drinking water
-:::
-
-
 
 :::{figure} #my-image
 :name: fig-vid-embedded
@@ -21,3 +15,10 @@ Image: Cute Dog
 :width: 50px
 An animated GIF
 :::
+
+
+:::{figure} #my-video
+:name: fig-vid-embedded
+Video: Dog drinking water
+:::
+
