@@ -4,21 +4,29 @@
 
 
 :::{figure} #my-image
-:name: fig-vid-embedded
+:name: hey
 :width: 50px
 Image: Cute Dog 
 :::
 
 
 :::{figure} #my-gif
-:name: fig-vid-embedded
+:name: ho
 :width: 50px
 An animated GIF
 :::
 
 
 :::{figure} #my-video
-:name: fig-vid-embedded
+:name: jo
 Video: Dog drinking water
 :::
+
+
+
+:::{figure} #my-svg
+:name: johooo
+Broom
+:::
+
 
